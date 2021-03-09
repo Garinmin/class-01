@@ -27,16 +27,16 @@ _p {color: black;}_
 p - selector,  {} - declaration
 The **declaration** is made up of two parts: **property** (color:) and **value** (black;)
 
-### Using external CSS
+## Using external CSS
 
 _link href="css/style.css" type="text/css" rel="stylesheet" /_
 
-### Using internal CSS
+## Using internal CSS
  
 **style** element usually sits inside the <head> element within an HTML page
   _style type="text/css"  h1{declaration} /_
   
-  ## Basic JavaScript Instructions
+## Basic JavaScript Instructions
   
   Variables: _var name;_
              _variable name = variable value;_
@@ -47,7 +47,7 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   * String ('Text')
   * Bolean (true, false)
   
-  ### Operators:
+## Operators:
   
   * assignment (_color = red_)
   * arithmetic
@@ -55,7 +55,7 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   * comparison (>,<, <=)
   * logical
   
-  ## Decesion
+## Decesion
   
   _if (score > 5) {}
   

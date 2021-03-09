@@ -24,7 +24,7 @@
 **CSS** works by associating rules with HTML elements.
 A CSS rule contains two parts: **selector** and **declaration**
 
-'''p {color: black;}'''
+```p {color: black;}```
 
 p - selector,  {} - declaration
 The **declaration** is made up of two parts: **property** (color:) and **value** (black;)

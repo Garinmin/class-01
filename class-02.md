@@ -48,13 +48,15 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   * Bolean (true, false)
   
   ### Operators:
+  
   * assignment (_color = red_)
   * arithmetic
   * string (fullName = 'First' + 'Last')
   * comparison (>,<, <=)
-  * logical (&&, ||, !)
+  * logical (&&,||,!)
   
   ## Decesion
+  
   _if (score > 5) {}
   
    else{}_

@@ -10,14 +10,6 @@
 * **sub** subscript text
 * **br** line breaks
 * **hr** horizontal rules
-* **strong** impotance content, by default the element is bold
-* **em** indicates changes the meaning of a sentence, by default is italic
-* **blockquote** is used for londer quotes. The **p** tag used inside the blockquote element
-* **q** used for shorter quotes and sit within a paragraph
-* **abbr** and **acronym** is it a title attribute
-* **address** 
-* **s** displayed with a line through the center
-* **ins** and **del** to show content that has been inserted and that has been deleted from the document
   
 ## Introducing CSS
 
@@ -31,12 +23,13 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
 
 ## Using external CSS
 
-_link href="css/style.css" type="text/css" rel="stylesheet" /_
+```<link href="css/style.css" type="text/css" rel="stylesheet" />```
 
 ## Using internal CSS
  
 **style** element usually sits inside the <head> element within an HTML page
-  _style type="text/css"  h1{declaration} /_
+  
+  ```<style type="text/css"  h1{declaration} />```
   
 ## Basic JavaScript Instructions
   
@@ -59,9 +52,9 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   
 ## Decesion
   
-  _if (score > 5) {}
+  ```if (score > 5) {}
   
-   else{}_
+   else{}```
    
 
    

@@ -43,16 +43,16 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
              _var name = 'John';_
   
   Date types:
-  *Numeric
-  *String ('Text')
-  *Bolean (true, false)
+  * Numeric
+  * String ('Text')
+  * Bolean (true, false)
   
   ### Operators:
-  *assignment (_color = red_)
-  *arithmetic
-  *string (fullName = 'First' + 'Last')
-  *comparison (>,>=)
-  *logical (&&, ||, !)
+  * assignment (_color = red_)
+  * arithmetic
+  * string (fullName = 'First' + 'Last')
+  * comparison (>,>=)
+  * logical (&&, ||, !)
   
   ## Decesion
   _if (score > 5) {}

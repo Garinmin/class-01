@@ -15,7 +15,6 @@
 * **blockquote** is used for londer quotes. The **p** tag used inside the blockquote element
 * **q** used for shorter quotes and sit within a paragraph
 * **abbr** and **acronym** is it a title attribute
-* **cite** and **dfn** 
 * **address** 
 * **s** displayed with a line through the center
 * **ins** and **del** to show content that has been inserted and that has been deleted from the document
@@ -30,7 +29,22 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
 
 ###Using external CSS
 
-_ <link href="css/style.css" type="text/css" rel="stylesheet" /> _
+_link href="css/style.css" type="text/css" rel="stylesheet" /_
+
+###Using internal CSS
+ 
+**style** element usually sits inside the <head> element within an HTML page
+  _style type="text/css"  h1{declaration}/_
+  
+  ##Basic JavaScript Instructions
+  
+  Date types:
+  
+  -Numeric
+  -String ('Text')
+  -Bolean (true, false)
+  
+  
 
 
 

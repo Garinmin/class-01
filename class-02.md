@@ -30,7 +30,7 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
 
 ###Using external CSS
 
-<link href="css/style.css" type="text/css" rel="stylesheet" />
+_<link href="css/style.css" type="text/css" rel="stylesheet" />_
 
 
 

@@ -53,7 +53,7 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   * arithmetic
   * string (fullName = 'First' + 'Last')
   * comparison (>,<, <=)
-  * logical
+  * logical (||, &&)
   
 ## Decesion
   

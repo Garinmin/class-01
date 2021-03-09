@@ -51,7 +51,7 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   * assignment (_color = red_)
   * arithmetic
   * string (fullName = 'First' + 'Last')
-  * comparison (>,>=)
+  * comparison (>,<, <=)
   * logical (&&, ||, !)
   
   ## Decesion

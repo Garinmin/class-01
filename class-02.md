@@ -34,7 +34,7 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
 ### Using internal CSS
  
 **style** element usually sits inside the <head> element within an HTML page
-  _style type="text/css"  h1{declaration}/_
+  _style type="text/css"  h1{declaration} /_
   
   ## Basic JavaScript Instructions
   

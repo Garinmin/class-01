@@ -1,6 +1,6 @@
 ## Code 201 Reading Notes
 
-class-01
+[class-01](class-01.md)
 
 [class-02](class-02.md)
 

@@ -5,8 +5,8 @@
 In this course we will study:
 
 * HTML
-* CSS
-* JavaScript
+* **CSS**
+* _JavaScript_
 
 
 

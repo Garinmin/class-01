@@ -51,7 +51,7 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
   * comparison (>, <, <=)
   * logical (&&, !)
   
-## Decesion
+## Decisions
   
 ```
   if (score > 5) {

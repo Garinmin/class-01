@@ -1,6 +1,6 @@
 # Read_02 "Basics of HTML, CSS & JS"
 
-##Text tags used to describe the structure of the page and provide semantic information:
+## Text tags used to describe the structure of the page and provide semantic information:
 
 * **h1 - h6** headings, html has six levels of headings
 * **p** paragraphs
@@ -19,7 +19,7 @@
 * **s** displayed with a line through the center
 * **ins** and **del** to show content that has been inserted and that has been deleted from the document
   
-##Introducing CSS
+## Introducing CSS
 
 **CSS** works by associating rules with HTML elements.
 A CSS rule contains two parts: **selector** and **declaration**
@@ -27,16 +27,16 @@ _p {color: black;}_
 p - selector,  {} - declaration
 The **declaration** is made up of two parts: **property** (color:) and **value** (black;)
 
-###Using external CSS
+### Using external CSS
 
 _link href="css/style.css" type="text/css" rel="stylesheet" /_
 
-###Using internal CSS
+### Using internal CSS
  
 **style** element usually sits inside the <head> element within an HTML page
   _style type="text/css"  h1{declaration}/_
   
-  ##Basic JavaScript Instructions
+  ## Basic JavaScript Instructions
   
   Variables: _var name;_
              _variable name = variable value;_
@@ -47,18 +47,18 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   *String ('Text')
   *Bolean (true, false)
   
-  ###Operators:
+  ### Operators:
   *assignment (_color = red_)
   *arithmetic
   *string (fullName = 'First' + 'Last')
   *comparison (>,>=)
   *logical (&&, ||, !)
   
-  ##Decesion
+  ## Decesion
   _if (score > 5) {}
    else{}_
    
-   ##
+
    
   
   

@@ -56,6 +56,7 @@ _link href="css/style.css" type="text/css" rel="stylesheet" /_
   
   ## Decesion
   _if (score > 5) {}
+  
    else{}_
    
 

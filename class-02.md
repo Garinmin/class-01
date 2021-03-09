@@ -51,7 +51,7 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
   * comparison (>, <, <=)
   * logical (&&, !)
   
-## Decisions
+## Decisions making
   
 ```
   if (score > 5) {
@@ -61,6 +61,7 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
   code to execute if value is false;
   }
 ```
+**IF...ELSE statements** checks a condition.
    
 
    

@@ -1,2 +1,2 @@
 ## class-01
-## [read 02](read02.md)
+## [read 02](class-02.md)

@@ -40,6 +40,8 @@ Every website should be designed for the target audience. You need to know:
 * why people visit your site
 * what information your visitors need
 
+## Process & Design
+
 You can use contrast to create a visual hierarchy that helps users find what they are looking for. 
 
 Visual hierarchy: 

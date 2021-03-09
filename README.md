@@ -1,4 +1,14 @@
+![logo](https://images.ctfassets.net/qjy3jg1udcmq/1MN5F84EVi0SaAieSkqY6S/46d632aa1811432f9c0a92600a1a5ee6/cf-logo-horizontal-2-color-white.png)
+
 ## Code 201 Reading Notes
+
+In this course we will study:
+
+* HTML
+* CSS
+* JavaScript
+
+
 
 [class-01](class-01.md)
 

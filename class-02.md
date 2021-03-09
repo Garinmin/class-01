@@ -52,8 +52,10 @@ The **declaration** is made up of two parts: **property** (color:) and **value**
   
 ## Decesion
   
-  ```if (score > 5) {}
-     else{}```
+```
+  if (score > 5) {}
+  else{}
+```
    
 
    

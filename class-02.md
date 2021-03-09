@@ -2,14 +2,14 @@
 
 ## Text tags used to describe the structure of the page and provide semantic information:
 
-* **h1 - h6** headings, html has six levels of headings
-* **p** paragraphs
-* **b** bold text 
-* **i** italic
-* **sup** superscript text 
-* **sub** subscript text
-* **br** line breaks
-* **hr** horizontal rules
+* **h1 - h6** - headings, html has six levels of headings
+* **p** - paragraphs
+* **b** - bold text 
+* **i** - italic
+* **sup** - superscript text 
+* **sub** - subscript text
+* **br** - line breaks
+* **hr** - horizontal rules
   
 ## Introducing CSS
 

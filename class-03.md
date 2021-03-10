@@ -8,7 +8,8 @@ The ordered lists is created with **ol** element
 
 Each element in the list is placed between **li** elements
 
-```<ol>
+```
+   <ol>
        <li> any text </li>
        <li> any text </li>
    </ol>
@@ -93,7 +94,7 @@ Index values start at 0
 
 - for -loops
 ```
-   for (i=0; i<10;    i++) {cod}
+   for (i=0; i<10; i++) {cod}
 ``` 
 - while loops
 ```

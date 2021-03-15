@@ -71,7 +71,7 @@ There are two ways:
 ```
    var firstItem = elements.item(0);
 ```
-- array sintax - is preferred the item() method, because it is faster
+- array syntax - is preferred the item() method, because it is faster
 ```
    var firstItem = elements[];
 ```

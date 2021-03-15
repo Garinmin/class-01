@@ -10,10 +10,10 @@ To solve this problem you can do one of two things:
 
 ## Objects
 
-Objects group together a set of varibles and function.
-In an object, varibles and functions take on new names:
+Objects group together a set of variables and function.
+In an object, variables and functions take on new names:
 
-- varibles is called **property**
+- variables is called **property**
 - functions become known as **methods**
 ```
    var hotel = {
@@ -28,7 +28,7 @@ In an object, varibles and functions take on new names:
    }
 ```
 
-### Accessing an object and d
+### Accessing an object
 
 To access a property or method you use the name of the object, ".", name of property or method
 ```
@@ -63,7 +63,7 @@ Accessing and updating the DOM tree involves two steps:
 Method that find elements in the DOM tree are called DOM queries.
 When you need to use an element more than once, you should use a variable to store the result of this query.
 
-### Selecting an element from nodelist
+### Selecting an element from Nodelist
 
 There are two ways:
 

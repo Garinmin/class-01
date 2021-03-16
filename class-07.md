@@ -1,4 +1,4 @@
-# Object-Oriented Programming, HTML Tables
+# Object-Oriented Programming (OOP), HTML Tables
 
 ## Domain Modeling
 
@@ -17,6 +17,12 @@ To define the same properties between many objects, you can use a constructor fu
    console.log(corgiFail);
 ```
 The variable _EpicFailVideo_ is declared and then assigned a function with two parameters called _epicRating_ and _hasAnimals_.
+
+In OOP:
+
+- Create an object.
+- The constructor function initializes properties inside that object using the ```this``` variable.
+- The object is stored in a variable for later use.
 
 [Domain modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 

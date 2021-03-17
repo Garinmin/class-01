@@ -12,7 +12,7 @@ CSS has the following positioning schemes:
 -  relative positioning - the element moves from the normal flow.
 -  absolute positioning - this positions the element in relation to its containig element.
 -  fixed positioning - this element do not move when the user scrolls up or down the page.
--  floating element - this element becomes a block-level element arround which other content can flow.
+-  floating element - this element becomes a block-level element around which other content can flow.
 -  sticky positioning - this same fixed element, do not move when the user scrolls up or down the page inside the block in which it is located.
 
 When you move any element from normal flow, boxes can overlap. **z-index** allows you to control which box appears on top.

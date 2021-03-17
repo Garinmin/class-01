@@ -62,9 +62,9 @@ For example, the 960.GS grid: ``` <link rel="stylesheet" type="text/css" href="c
 This framework you can find this:
 [960.GS Grid](https://960.gs/)
 
-### Multiplae style sheets
+### Multiple style sheets
 
-There are two ways to add Multiplae style sheet to a page:
+There are two ways to add Multiple style sheet to a page:
 
 - In HTML you can use a separate ```<link>``` elements
 ```

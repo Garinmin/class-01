@@ -52,4 +52,3 @@ For opening the console you need to:
 - FireFox - Press **CTRL + Shift + K**
 - Safari - **Alt +Cmd + C**
 
--*

@@ -29,7 +29,7 @@ By default, images are inline elements. If you need to put the image on center:
 ```
  Background images.
  
- You can place an image behind ane HTML element
+ You can place an image behind a HTML element
  ```
     body {
        background- image: url("//http:image.com");
@@ -53,11 +53,11 @@ By default, images are inline elements. If you need to put the image on center:
 ## Audio, video
 
 Flash is very popular technology used to add animation, video and audio to websites.
-If you want to create your own Flash movie, you need to purchase the Flash authoring enveroment from Adobe. 
+If you want to create your own Flash movie, you need to purchase the Flash authoring enveronment from Adobe. 
 When you create a Flash file, it is saved with the **.fla** file extention.
 You need to export the movie into SWF format(.swf)
 To view Flash, the browsers need to use a Flash-plugin.
-HTML-5 support ```<video>``` and ```<audio>``` tags and more peaple are switching to HTML-5.
+HTML-5 support ```<video>``` and ```<audio>``` tags and more people are switching to HTML-5.
 The ```<video>``` and ```<audio>``` elements allow us to embed video and audio into web pages. 
 For example:
 ```

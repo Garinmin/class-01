@@ -28,7 +28,7 @@ Next, import the script in HTML page:
 	  labels : ["January","February","March","April","May","June"],
 	  datasets : [
 		{
-			fillColor : "rgba(172,194,132,0.4)",                                  // create our data 
+			fillColor : "rgba(172,194,132,0.4)",                // create our data 
 			strokeColor : "#ACC26D",
 			pointColor : "#fff",                          
 			pointStrokeColor : "#9DB86D",
@@ -75,7 +75,7 @@ Next, import the script in HTML page:
 ### 
 
 ```
-   <canvas id="income" width="600" height="400"></canvas>       // create the canvas element
+   <canvas id="income" width="600" height="400"></canvas>            // create the canvas element
    
    var income = document.getElementById("income").getContext("2d");  // retrieve the element and create the graph
    new Chart(income).Bar(barData);   
@@ -88,7 +88,7 @@ Next, import the script in HTML page:
 			strokeColor : "#48A4D1",
 			data : [456,479,324,569,702,600]
 		},
-		{                                                             // add in the bar chart’s data 
+		{                                                    // add in the bar chart’s data 
 			fillColor : "rgba(73,188,170,0.4)",
 			strokeColor : "rgba(72,174,209,0.4)",
 			data : [364,504,605,400,345,320]
@@ -97,4 +97,4 @@ Next, import the script in HTML page:
    }
 ```
    
-
+## The _canvas_ element

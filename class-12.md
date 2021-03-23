@@ -98,3 +98,50 @@ Next, import the script in HTML page:
 ```
    
 ## The _canvas_ element
+
+The **canvas** element has only two attributes: ```width``` and ```height```
+(When no ```width``` and ```height``` attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high).
+Unlike the ```<img>``` element, the ```<canvas>``` element requires the closing tag ```</canvas>```
+The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it
+```
+   var canvas = document.getElementById('tutorial');     // retrieves the node in the DOM by calling the document.getElementById() method
+   var ctx = canvas.getContext('2d');                    // call getContext() method ("2d" to get a CanvasRenderingContext2D)
+```
+
+### Drawing rectangles
+
+```<canvas>``` only supports two primitive shapes: rectangles and paths
+There are three functions that draw rectangles on the canvas:
+```fillRect(x, y, width, height)``` Draws a filled rectangle.
+```strokeRect(x, y, width, height)``` Draws a rectangular outline.
+```clearRect(x, y, width, height)``` Clears the specified rectangular area, making it fully transparent.
+Each of these three functions takes the same parameters. ```x``` and ```y``` specify the position on the canvas (relative to the origin) of the top-left corner of the rectangle. ```width``` and ```height``` provide the rectangle's size.
+Example:
+```function draw() {
+  var canvas = document.getElementById('canvas');
+  if (canvas.getContext) {
+    var ctx = canvas.getContext('2d');
+
+    ctx.fillRect(25, 25, 100, 100);
+    ctx.clearRect(45, 45, 60, 60);
+    ctx.strokeRect(50, 50, 50, 50);
+  }
+  }
+```
+### Drawing paths
+
+1. Create the path.
+2. Use drawing commands to draw into the path.
+3. You can stroke or fill the path to render it.
+
+Here are the functions used to perform these steps:
+```beginPath()``` Creates a new path.
+``Path methods`` Methods to set different paths for objects.
+```closePath()``` Adds a straight line to the path, going to the start of the current sub-path.
+```stroke()``` Draws the shape by stroking its outline.
+```fill()``` Draws a solid shape by filling the path's content area.
+
+```moveTo(x, y)``` Moves the pen to the coordinates specified by x and y
+```arc(x, y, radius, startAngle, endAngle, anticlockwise)``` Draws an arc which is centered at (x, y) position with radius r starting at startAngle and ending 
+                                                             at endAngle going in the given direction indicated by anticlockwise (defaulting to clockwise)
+```arcTo(x1, y1, x2, y2, radius)``` Draws an arc with the given control points and radius, connected to the previous point by a straight line.

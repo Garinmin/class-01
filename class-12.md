@@ -135,13 +135,13 @@ Example:
 3. You can stroke or fill the path to render it.
 
 Here are the functions used to perform these steps:
-```beginPath()``` Creates a new path.
-``Path methods`` Methods to set different paths for objects.
-```closePath()``` Adds a straight line to the path, going to the start of the current sub-path.
-```stroke()``` Draws the shape by stroking its outline.
-```fill()``` Draws a solid shape by filling the path's content area.
+- ```beginPath()``` Creates a new path.
+- ```Path methods``` Methods to set different paths for objects.
+- ```closePath()``` Adds a straight line to the path, going to the start of the current sub-path.
+- ```stroke()``` Draws the shape by stroking its outline.
+- ```fill()``` Draws a solid shape by filling the path's content area.
 
-```moveTo(x, y)``` Moves the pen to the coordinates specified by x and y
-```arc(x, y, radius, startAngle, endAngle, anticlockwise)``` Draws an arc which is centered at (x, y) position with radius r starting at startAngle and ending 
+- ```moveTo(x, y)``` Moves the pen to the coordinates specified by x and y
+- ```arc(x, y, radius, startAngle, endAngle, anticlockwise)``` Draws an arc which is centered at (x, y) position with radius r starting at startAngle and ending 
                                                              at endAngle going in the given direction indicated by anticlockwise (defaulting to clockwise)
-```arcTo(x1, y1, x2, y2, radius)``` Draws an arc with the given control points and radius, connected to the previous point by a straight line.
+- ```arcTo(x1, y1, x2, y2, radius)``` Draws an arc with the given control points and radius, connected to the previous point by a straight line.

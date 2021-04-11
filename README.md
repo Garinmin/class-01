@@ -1,14 +1,16 @@
 ![logo](https://images.ctfassets.net/qjy3jg1udcmq/1MN5F84EVi0SaAieSkqY6S/46d632aa1811432f9c0a92600a1a5ee6/cf-logo-horizontal-2-color-white.png)
 
-## Code 201 Reading Notes
+# Reading Notes
 
-In this course we will study:
+This web site is about:
 
 * **HTML**
 * CSS
 * _JavaScript_
 
+## Code 102 - Intro to Software Development
 
+## Code 201 - Foundations of Software Development
 
 [class-01](class-01.md)
 
@@ -39,3 +41,9 @@ In this course we will study:
 [class-14](class-14.md)
 
 [class-15](class-15.md)
+
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+

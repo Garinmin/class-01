@@ -45,5 +45,7 @@ This web site is about:
 
 ## Code 301 - Intermediate Software Development
 
+[class-01](301 Read_1.md)
+
 ## Code 401 - Advanced Software Development
 
